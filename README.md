@@ -4,3 +4,5 @@ Data Structures implementation in Java
 - Double Linked Lists
 - Array Linked Lists
 - Binary Search Tree
+
+More in progress
